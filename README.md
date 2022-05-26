@@ -1,24 +1,7 @@
-# leica-converter
+# Leica Converter
 
-## Project setup
-```
-npm install
-```
+任意の金額を入れると Leica M10 で換算してくれます
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## URL
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<a href="https://leica-converter.web.app/">https://leica-converter.web.app/</a>
